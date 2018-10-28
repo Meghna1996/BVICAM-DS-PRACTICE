@@ -3,7 +3,7 @@ import java.util.Scanner;
 class KLargestEle{
 	private static Scanner scan = new Scanner(System.in);
 	static void heapsort(int[] a,int len,int k){
-		int flag=0;
+		int flag = 0;
 		int root = len/2 - 1;
 		for(int i=root;i>=0;i--)
 			heapify(a,len,i);
@@ -14,7 +14,6 @@ class KLargestEle{
 			a[i]=a[0];
 			a[0]=temp;
 			heapify(a,i,0);	
-		
 			flag++;
 		}
 	}

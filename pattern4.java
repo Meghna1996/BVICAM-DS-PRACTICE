@@ -5,7 +5,6 @@ class pattern4{
 			if(i==0){
 				for(int m=0;m<9;m++)
 				System.out.print("*");
-					
 			}			
 			if(i!=0){
 			for(int j=flagx;j<=5;j++)

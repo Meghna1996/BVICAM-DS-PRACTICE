@@ -1,3 +1,16 @@
+/*
+1
+123
+12345
+1234567
+123456789
+1234567
+12345
+123
+1
+*/
+C:\Users\miley\Desktop\javaprograms\programs>
+
 class pattern7{
 	static void method(){
 		int flag=1;

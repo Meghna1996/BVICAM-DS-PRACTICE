@@ -1,3 +1,11 @@
+/*
+1
+4 9 16
+25 36 49 64 81
+100 121 144 169 196 225 256
+289 324 361 400 441 484 529 576 625
+*/
+C:\Users\miley\Desktop\javaprograms\programs>
 class pattern8{
 	static void method(){
 		int flag=1,k=1;

@@ -1,3 +1,12 @@
+/*
+
+*
+***
+*****
+*******
+*********
+*/
+C:\Users\miley\Desktop\javaprograms\programs>
 class pattern6{
 	static void method(){
 		int flag=1;

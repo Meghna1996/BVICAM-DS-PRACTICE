@@ -1,3 +1,12 @@
+/*
+12344321
+123**321
+12****21
+1******1
+*/
+C:\Users\miley\Desktop\javaprograms\programs>
+
+
 class pattern9{
 	static void method(){
 		int flag1=4,flag2=0,flag3=4;
@@ -12,9 +21,7 @@ class pattern9{
 				System.out.print(l);
 			flag3--;
 			System.out.println();
-
 		}
-
 	}
 	public static void main(String[] args) {
 		method();

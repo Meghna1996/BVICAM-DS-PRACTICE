@@ -1,6 +1,6 @@
 /*
-Input	5
-Output	1
+Input		5
+Output		1
 		121
 		12321
 		1234321

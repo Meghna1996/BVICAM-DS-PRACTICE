@@ -7,7 +7,7 @@
 765432
 7654321
 */
-C:\Users\miley\Desktop\javaprograms\programs>
+
 class pattern5{
 	static void method(){
 		for(int i=1;i<=7;i++){

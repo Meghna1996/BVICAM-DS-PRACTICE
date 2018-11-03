@@ -13,10 +13,10 @@ Output-	123456789
 		98765432
 		987654321
 */
-
+//complexity n * n 
 import java.util.Scanner;
 
-class pattern15{
+class Pattern15{
 private static Scanner scan = new Scanner(System.in);
 	static void method(int n){
 		int flag=9;

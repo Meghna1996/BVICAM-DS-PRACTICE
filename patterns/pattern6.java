@@ -1,23 +1,30 @@
 /*
+Input 
+		5
+Output
 
-*
-***
-*****
-*******
-*********
+		*
+		***
+		*****
+		*******
+		*********
 */
-C:\Users\miley\Desktop\javaprograms\programs>
-class pattern6{
-	static void method(){
+//complexity n*n
+		
+import java.util.Scanner;
+class Pattern6{
+	private static Scanner scan = new Scanner(System.in);
+	static void method(int n){
 		int flag=1;
-		for(int i=1;i<=5;i++){
-			for(int j=1;j<=flag;j++)
+		for(int i=1;i<=n;i++){			// n rows
+			for(int j=1;j<=flag;j++)	
 				System.out.print("*");
-			flag=flag+2;
+			flag=flag+2;				//incrementing length of each row by 2
 			System.out.println();
 		}
 	}
 	public static void main(String[] args) {
-		method();
+		int n = scan.nextInt();
+		method(n);
 	}
 }

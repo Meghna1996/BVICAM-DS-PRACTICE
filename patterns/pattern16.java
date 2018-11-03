@@ -1,6 +1,7 @@
 /*
 Input-			5
-Output-		    *
+Output-		   
+				*
 			   * *
 			  * * *
 			 * * * *
@@ -13,7 +14,7 @@ Output-		    *
 
 import java.util.Scanner;
 
-class pattern16{
+class Pattern16{
 private static Scanner scan = new Scanner(System.in);
 	static void method(int n){
 		for(int i=1;i<=2*n;i++){

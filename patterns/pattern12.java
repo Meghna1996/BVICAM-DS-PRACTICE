@@ -1,14 +1,15 @@
 /*
-Input		5
-Output		1
+Input	5
+Output	
+		1
 		121
 		12321
 		1234321
 		123454321
 		*/
-
+//complexity n * n
 import java.util.Scanner;
-class pattern12{
+class Pattern12{
 	private static Scanner scan = new Scanner(System.in);
 	static void method(int n){
 		int flag=1;

@@ -12,8 +12,9 @@ Output-
    **   **
     *   *
 */
+//Complexity n * n
 import java.util.Scanner;
-class pattern10{
+class Pattern10{
 	private static Scanner scan = new Scanner(System.in);
 	static void method(int n){
 		int flag1=n-1,flag2=1,i;

@@ -13,8 +13,9 @@ Output-   1
           6
 
 */
+// complexity n *n
 import java.util.Scanner;
-class pattern11{
+class Pattern11{
 	private static Scanner scan = new Scanner(System.in);
 	static void method(int n){
 		int flag1 = 2*n-2, flag2 = 1;

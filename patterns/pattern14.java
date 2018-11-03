@@ -1,6 +1,7 @@
 /*
 Input-	6
-Output-	******
+Output-	
+		******
 		 *****
 		  ****
 		   ***
@@ -12,9 +13,10 @@ Output-	******
 		 *****
 		******
 */
+//complexity n * n
 
 import java.util.Scanner;
-class pattern14{
+class Pattern14{
 	private static Scanner scan = new Scanner(System.in);
 	static void method(int n){
 		int count=1;

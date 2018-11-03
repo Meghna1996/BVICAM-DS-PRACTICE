@@ -1,6 +1,6 @@
+//incomplete yet to be done
 import java.util.Scanner;
-
-class pattern17{
+class Pattern17{
 private static Scanner scan = new Scanner(System.in);
 	static void method(int n){
 		for(int i=1;i<=2*n+2;i++){

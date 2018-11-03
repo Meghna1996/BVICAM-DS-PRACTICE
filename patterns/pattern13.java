@@ -6,8 +6,10 @@ Output-	* * * * *
 		   * *
 		    *
 */
+
+//complexity n * n
 import java.util.Scanner;
-class pattern13{
+class Pattern13{
 	private static Scanner scan = new Scanner(System.in); 
 	static void method(int n){
 		//int flag=5;

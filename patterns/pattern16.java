@@ -11,7 +11,7 @@ Output-
 			   * *
 			    *
 */
-
+//complexity n * n
 import java.util.Scanner;
 
 class Pattern16{

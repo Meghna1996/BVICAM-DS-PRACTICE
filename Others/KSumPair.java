@@ -6,7 +6,7 @@ Input	5				- no of elements
 Output	(-1,6), (0,5),	- pairs
 */
 import java.util.Scanner;
-class KPair{
+class KSumPair{
 	private static Scanner scan = new Scanner(System.in);
 	static void heapsort(int[] a,int len){
 		int root = len/2 - 1;			//rightmost parent before root

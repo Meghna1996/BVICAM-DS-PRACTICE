@@ -9,7 +9,7 @@ Output-
 */
 
 import java.util.Scanner;
-class ConArray{
+class FindMaxConSumArray{
 	private static Scanner scan= new Scanner(System.in);
 	static int gmax(int[] arr, int len){			//function for finding continous max in array
 		int i = 1, gmax = 0, lmax = arr[0];

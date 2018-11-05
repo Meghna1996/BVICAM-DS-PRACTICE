@@ -1,6 +1,7 @@
+//not completed yet
 import java.util.Scanner;
 
-class CountingArray{
+class CountingSort{
 	static int[] coutingsort(int[] arr,int len,int exp){
 		//int[] couting=new int[10];
 		int[] counting = new int[10];

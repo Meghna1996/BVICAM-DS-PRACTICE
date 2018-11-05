@@ -10,7 +10,7 @@ Largest Element
 */
 import java.util.Scanner;
 
-class KLargestEle{
+class KLargestEleMaxHeap{
 	private static Scanner scan = new Scanner(System.in);
 	static void heapsort(int[] a,int len,int k){
 		int flag = 0;					//counter for checking the number of largest elements calculated

@@ -7,7 +7,7 @@ Output
 */
 //Complexity n
 import java.util.Scanner;
-class Shares{
+class BuySellShare{
 	private static Scanner scan = new Scanner(System.in);
 	static void diff(int[] arr,int len){
 		int min=0,max=0,max2=0,min2=0;

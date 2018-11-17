@@ -60,10 +60,8 @@ class QuickSort{
 				}
 			}
 
-		return mid;
+		return high;
 	}
-
-
 
 	public static void main(String[] args) {
 		int len = scan.nextInt();

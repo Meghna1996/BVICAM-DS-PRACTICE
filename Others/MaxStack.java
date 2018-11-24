@@ -54,7 +54,7 @@ class MaxStack{
 		}
 		static void peekmax(){			//printing maximum
 			if(mainstack.empty())
-				System.out.println("empty stack ");
+				System.out.println("empty stack");
 			else
 			System.out.println("maximum "+max);
 		}

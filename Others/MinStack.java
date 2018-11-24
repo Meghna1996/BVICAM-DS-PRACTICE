@@ -1,16 +1,16 @@
 /*
 Enter your choice: 1.push 2.pop 3.Min 4.else to exit
 1
-Enter the element 5
+Enter the element 5									//stack 5
 Enter your choice: 1.push 2.pop 3.Min 4.else to exit
 1
-Enter the element 4
+Enter the element 4									//stack 5->4
 Enter your choice: 1.push 2.pop 3.Min 4.else to exit
 1
-Enter the element 3
+Enter the element 3									//stack 5->4->3
 Enter your choice: 1.push 2.pop 3.Min 4.else to exit
 1
-Enter the element 2
+Enter the element 2									//stack 5->4->3->2
 Enter your choice: 1.push 2.pop 3.Min 4.else to exit
 3
 Minimum 2
